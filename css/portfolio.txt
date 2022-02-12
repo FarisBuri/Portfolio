@@ -1,0 +1,25 @@
+Portfolio Content : 
+- make customize for color and font size // Done 
+- make section boxes go from left to middle and reverse // Done
+- make section start from zero to full size  //  Done
+
+What Section : 
+
+- Landing // Done 
+- About Me // Done 
+- Services  // Done
+- Skills // Done
+- Projects [Project Pic, Project Name , More Details to Appear what you use to make like html css ..] // Done
+- Small Projects // Fail
+- My Years Work :) // Fail
+- Footer // Done
+
+
+Additional  : 
+
+- Opbjcet  // Done 
+- Add Portfolio in Projects Section // Done 
+- Save Last Color, Font => Make Customize to all Sections Font // Done 
+- Enhance Projects Section // Done 
+- Change About Me To Be More Interactive  // Done
+
